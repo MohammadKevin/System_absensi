@@ -66,22 +66,22 @@ API ini memiliki fitur untuk **menambahkan user**, **mencatat presensi (Hadir, I
 ## Dokumentasi Program
 
 ### 1️⃣ Struktur Folder
-![Struktur Folder](./dokumentasi/struktur%20folder.png)
+<img width="299" height="595" alt="struktur folder" src="https://github.com/user-attachments/assets/7115f5c8-9202-4393-82bd-a4f432171b81" />
 
 ### 2️⃣ Add User (POST)
-![Add User](./dokumentasi/end%20point%20add%20users.png)
+<img width="1919" height="1079" alt="end point add users" src="https://github.com/user-attachments/assets/76abc662-49d5-48f3-a904-cf714187340c" />
 
 ### 3️⃣ Presensi Siswa (POST)
-![Presensi Siswa](./dokumentasi/end%20point%20add%20presensi.png)
+<img width="1919" height="1079" alt="end point add presensi" src="https://github.com/user-attachments/assets/0a4405e5-d37c-4e5e-a3be-9231969d2c8c" />
 
 ### 4️⃣ Analisis Kehadiran
-![Analysis](./dokumentasi/end%20point%20kehadiran.png)
+<img width="1919" height="1079" alt="end point kehadiran" src="https://github.com/user-attachments/assets/f0a5374c-d9e0-48d9-be32-87f8f4cc1f6f" />
 
 ### 5️⃣ Rekap Kehadiran Bulanan
-![Summary](./dokumentasi/summary.png)
+<img width="1919" height="1079" alt="summary" src="https://github.com/user-attachments/assets/653df765-fb75-4729-8871-a93d9627cc68" />
 
 ### 6️⃣ Login
-![Login User](./dokumentasi/end%20point%20login%20users.png)
+<img width="1917" height="1077" alt="end point login users" src="https://github.com/user-attachments/assets/f9455066-e191-4200-9818-5235870d47d1" />
 
 ---
 
