@@ -18,9 +18,9 @@ A reliable presence tracking backend designed for institutions and workplaces to
 ---
 
 ## ✨ Key Features
-- ⚡ **Daily check-in and check-out logging with timestamp verification**: Daily check-in and check-out logging with timestamp verification
-- ⚡ **Leave of absence submission and approval workflow**: Leave of absence submission and approval workflow
-- ⚡ **Monthly attendance summary calculations**: Monthly attendance summary calculations
+- Daily check-in and check-out logging with timestamp verification
+- Leave of absence submission and approval workflow
+- Monthly attendance summary calculations
 
 ---
 
