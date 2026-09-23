@@ -12,26 +12,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A reliable presence tracking backend designed for institutions and workplaces to record attendance logs, check-in/out timestamps, and leave requests.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Daily check-in and check-out logging with timestamp verification
 - Leave of absence submission and approval workflow
 - Monthly attendance summary calculations
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Express.js
 - **ORM**: Prisma ORM
 - **Database**: MySQL
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 System_absensi/
 ├── controller/         # Auth, Kehadiran, Presensi controllers
@@ -41,7 +41,7 @@ System_absensi/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -59,7 +59,7 @@ npm run dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -68,9 +68,9 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
